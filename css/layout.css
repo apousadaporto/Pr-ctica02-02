@@ -10,11 +10,14 @@ header {
     padding: 0 15px;
 }
 
-nav {
-    
-}
-
 a {
     font-weight: bold;
 }
 
+
+/* IPAD */
+@media only screen and (min-width: 768px) {
+    .header {
+        flex-direction: row-reverse;
+    }
+}
