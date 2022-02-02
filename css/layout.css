@@ -21,3 +21,14 @@ a {
         flex-direction: row-reverse;
     }
 }
+
+/* DESKTOP */
+@media only screen and (min-width: 1000px) {
+    .menuSmartphone {
+        display: none;
+    }
+
+    .menuSmartphone {
+        
+    }
+}
