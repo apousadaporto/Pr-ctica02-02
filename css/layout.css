@@ -1,4 +1,16 @@
 /* CSS LAYOUT */
 /* **************************************************************** */
 
+/* SMARTPHONE*/
+header {
+    background-color: rgb(231, 143, 158);
+}
+
+nav {
+    display: flex;
+}
+
+a {
+    font-weight: bold;
+}
 
